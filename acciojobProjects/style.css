@@ -1,0 +1,54 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+
+#headerr{
+
+    height: 50px;
+    background-color: rgb(14, 0, 0);
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+
+
+   
+    
+}
+
+.partion{
+
+    display: flex;
+    justify-content: space-around ;
+    padding: 20px;
+}
+
+
+.first-elemnt , .second-element , .third-element{
+
+
+    background-color: white;
+    padding: 20px;
+    width: 30%;
+    border-radius: 10px;
+	 text-align: center;
+}
+
+
+.third-element img {
+
+    display: flex;
+   
+    background-color: white;
+    padding: 20px;
+    width: 100px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.first-elemnt ul {
+    list-style-type: disc;
+	 text-align: center;
+    padding-left: 20px;
+}
